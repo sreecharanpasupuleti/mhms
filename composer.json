@@ -1,0 +1,9 @@
+{
+  "name": "mhms/seminar-project",
+  "description": "Medical History Management System",
+  "require": {
+    "php": ">=8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  }
+}
